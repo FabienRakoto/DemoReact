@@ -1,2 +1,0 @@
-# DemoReact
-Created with CodeSandbox
